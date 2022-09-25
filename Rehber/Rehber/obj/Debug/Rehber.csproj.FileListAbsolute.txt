@@ -1,0 +1,16 @@
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\bin\Debug\Rehber.exe.config
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\bin\Debug\Rehber.exe
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\bin\Debug\Rehber.pdb
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\obj\Debug\Rehber.csproj.AssemblyReference.cache
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\obj\Debug\Rehber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\obj\Debug\Rehber.Form1.resources
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\obj\Debug\Rehber.Properties.Resources.resources
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\obj\Debug\Rehber.csproj.GenerateResource.cache
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\obj\Debug\Rehber.csproj.CoreCompileInputs.cache
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\obj\Debug\Rehber.exe
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\obj\Debug\Rehber.pdb
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\bin\Debug\EntityFramework.dll
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\bin\Debug\EntityFramework.xml
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Borko\Desktop\C# proje\Rehber\Rehber\obj\Debug\Rehber.csproj.CopyComplete
